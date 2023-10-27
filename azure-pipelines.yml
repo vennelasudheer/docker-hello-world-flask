@@ -5,7 +5,7 @@
 trigger:
 - main 
 
-pool: Azure Pipelines
+pool: RoundTheCode
 
 resources:
 - repo: self
